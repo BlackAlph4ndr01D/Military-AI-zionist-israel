@@ -26,8 +26,8 @@ These systems raise global concerns about **digital apartheid, predictive polici
 
 Explore detailed lists in the `list/` directory:
 
-- [Figures & Algorithmic Narratives](list/figures.md)
-- [Algorithmic War & AI Brigades](list/algorithmic-war.md)
+ 
+- [Algorithmic War & AI Brigades]([list/algorithmic-war.md](https://github.com/BlackAlph4ndr01D/Military-AI-zionist-israel/blob/main/List/algorithmic-war.md))
 - [BigTech Infrastructure](list/bigtech.md)
 - [Palantir & Analytics](list/palantir.md)
 - [Social Media & Sensors](list/social-media.md)
