@@ -1,5 +1,70 @@
 # Military AI zionist israel
 
+
+
+# 📖 Lists of Zionist Military AI Systems
+
+This repository documents the integration of **artificial intelligence (AI)** into Israel’s military infrastructure.  
+It serves as a **public archive** to expose algorithmic warfare, surveillance technologies, and BigTech involvement in Gaza and the West Bank.  
+The goal is to **counter propaganda** and preserve the voice of Palestine through transparent documentation.
+
+---
+
+## 🌍 Overview
+Israel has rapidly deployed AI in:
+- Drones & robotics
+- Surveillance & facial recognition
+- Cyber & psychological operations
+- Missile defense systems
+- BigTech cloud and GPU infrastructure
+
+These systems raise global concerns about **digital apartheid, predictive policing, and algorithmic targeting**.
+
+---
+
+## 📂 Documentation Category
+
+Explore detailed lists in the `list/` directory:
+
+- [Figures & Algorithmic Narratives](list/figures.md)
+- [Algorithmic War & AI Brigades](list/algorithmic-war.md)
+- [BigTech Infrastructure](list/bigtech.md)
+- [Palantir & Analytics](list/palantir.md)
+- [Social Media & Sensors](list/social-media.md)
+- [Surveillance & Recognition](list/surveillance.md)
+- [Drones & Robotics](list/drones.md)
+- [Air Defense Systems](list/air-defense.md)
+- [Cyber & PsyOps](list/cyber-psyops.md)
+- [AI Weapons & Missiles](list/ai-weapons.md)
+- [Digital Apartheid & Infrastructure](list/digital-apartheid.md)
+- [Silicon Valley Ecosystem](list/silicon-valley.md)
+- [Cognitive & Targeting Systems](list/cognitive-targeting.md)
+- [Robotics & Ground Systems](list/ground-robots.md)
+- [Advanced Missiles & Defense](list/advanced-defense.md)
+- [Documentation & Ethics](list/documentation-ethics.md)
+
+---
+
+## 🔗 Quick Access Links
+- 🌐 [GitHub Pages](https://blackalph4ndr01d.github.io/Daftar-Militer-AI-zionis-israel/)  
+- 📚 [Wiki Documentation](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki)  
+- 🔗 [Bitly Shortlink 1](https://bit.ly/DaftarMiliterAIzionistisrael)  
+- 🔗 [Bitly Shortlink 2](https://bit.ly/DaftarMiliterAIzionisIsrael)  
+
+---
+
+## ⚖️ Ethical Framing
+This documentation is not neutral.  
+It is a **counter‑archive** against propaganda, designed to highlight the ethical, political, and humanitarian consequences of military AI systems.  
+By preserving these records, we ensure that the **voice of Palestine** is not silenced in the digital battlefield.
+
+---
+
+## 📜 License
+This repository is shared for **educational and activist purposes**.  
+Feel free to fork, mirror, or clone to ensure resilience and distribution.
+
+---
 | **Category**                   | **Entity / System**                                                                 | **Role / Function**                                                                 |
 |--------------------------------|--------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
 | Figures & Algorithmic Narratives | Abu Ubaidah                                                                         | Elimination by algorithm, turned into a digital target                              |
@@ -18,3 +83,4 @@
 | Robotics & Ground Systems       | Jaguar, Rex, RoboDog, RoBattle Urban, Guardium, Ground Robots                       | Ground robots for patrol and urban operations                                       |
 | Advanced Missiles & Defense     | Arrow 3/4, Barak MX, Sa’ar 6 AI, SkySonic, SkyStriker, PAC 3, THAAD, Trophy APS     | Air defense missiles and anti-missile systems                                       |
 | Documentation & Ethics          | Disclaimer, Ethical Framing, About This Wiki, Public Documentation Navigation       | Ethical explanations, framing, and documentation purpose                            |
+
