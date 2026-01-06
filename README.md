@@ -1,8 +1,12 @@
 # Military AI zionist israel
+---
+####  ⚖️ Ethical Framing
 
+This documentation is not neutral.  
+It is a counter-archive against propaganda, designed to highlight the ethical, political, and humanitarian consequences of military AI systems.  
+By preserving these records, we ensure that the **voice of Palestine** is not silenced in the digital battlefield.
  
-
-### 📖 Atlas of Zionist Military AI Systems
+# 📖 LIST of Zionist Military AI Systems
 
 This repository documents the integration of **artificial intelligence (AI)** into Israel’s military infrastructure.  
 It serves as a **public archive** to expose algorithmic warfare, surveillance technologies, and BigTech involvement in Gaza and the West Bank.  
@@ -11,7 +15,7 @@ The goal is to **counter propaganda** and preserve the voice of Palestine throug
 ---
 
 ## 🌍 Overview
-Israel has rapidly deployed AI in:
+Zionist Israel has rapidly deployed AI in Military Agression in Gaza and West Bank, Palestine  :
 - Drones & robotics
 - Surveillance & facial recognition
 - Cyber & psychological operations
@@ -87,8 +91,4 @@ It is shared for **educational, activist, and research purposes**.
 
 ---
 
-## ⚖️ Ethical Framing
 
-This documentation is not neutral.  
-It is a counter-archive against propaganda, designed to highlight the ethical, political, and humanitarian consequences of military AI systems.  
-By preserving these records, we ensure that the **voice of Palestine** is not silenced in the digital battlefield.
