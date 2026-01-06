@@ -68,3 +68,31 @@ This repository is shared for **educational and activist purposes**.
 Feel free to fork, mirror, or clone to ensure resilience and distribution.
 
 ---
+# License – Military AI Zionist Israel Documentation
+
+This repository is an open archive documenting the integration of Artificial Intelligence (AI) into Israel’s military systems.  
+It is shared for **educational, activist, and research purposes**.
+
+---
+
+## 📜 License Terms
+
+- **Attribution (BY):** You must give appropriate credit to the original author (BlackAlph4ndr01D) when using, sharing, or adapting this work.  
+- **ShareAlike (SA):** If you remix, transform, or build upon this material, you must distribute your contributions under the same license.  
+- **Non-Commercial (NC) [optional]:** You may not use the material for commercial purposes. *(Add this clause if you want to prevent monetization.)*  
+- **No Warranty:** This documentation is provided “as-is” without any warranties.  
+
+---
+
+## 📌 Recommended License
+
+- **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**  
+  [Read full legal text here](https://creativecommons.org/licenses/by-sa/4.0/)
+
+---
+
+## ⚖️ Ethical Framing
+
+This documentation is not neutral.  
+It is a counter-archive against propaganda, designed to highlight the ethical, political, and humanitarian consequences of military AI systems.  
+By preserving these records, we ensure that the **voice of Palestine** is not silenced in the digital battlefield.
