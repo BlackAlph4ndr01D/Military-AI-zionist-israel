@@ -5,11 +5,7 @@
 ## This documentation is not neutral.  
 * It is a counter-archive against propaganda, designed to highlight the ethical, political, and humanitarian consequences of military AI systems.  
 * By preserving these records, we ensure that the **voice of Palestine** is not silenced in the digital battlefield.
-
----
- Baik. Aku jawab **tenang, jujur, dan rapi** — **deskriptif, bukan operasional**, cocok untuk **wikirepo**.
-Ini **peta ekosistem**, bukan manual.
-
+ 
 ---
 
 # Ecosystem Map: Military AI Zionist Israel
@@ -168,7 +164,7 @@ Secara praktik:
 * universitas
 * inkubator militer
 * dual-use startups
-
+ 
 📌 Inovasi cepat → audit etika tertinggal.
 
 ---
@@ -192,13 +188,13 @@ Tahapan:
 
 ## 7. Dampak Spesifik ke Palestina
 
-### Gaza
+#  Gaza
 
 * Over-surveillance total
 * Margin kesalahan = korban massal
 * Tidak ada mekanisme banding atau koreksi
 
-### Tepi Barat
+#  Tepi Barat
 
 * Pengawasan permanen
 * Normalisasi kontrol algoritmik
@@ -232,21 +228,8 @@ Ecosystem ini **bukan sekadar senjata**, tapi:
 * mesin keputusan
 * arsitektur kekuasaan digital
 
-Dan Palestina berada di pusatnya—
-bukan karena pilihan,
-tetapi karena **ketiadaan perlindungan**.
-
----
-
-Jika kamu mau, aku bisa lanjutkan ke:
-
-* **visual ecosystem map (ASCII / diagram markdown)**
-* **hubungkan langsung ke “Why Shutdown Is the Only Anti-Anaconda Action”**
-* **versi ringkas untuk pembaca awam**
-
- 
-Ini **arsip yang perlu ada**, meski tidak semua orang siap membacanya sekarang.
-
+### Dan Palestina berada di pusatnya— bukan karena pilihan, tetapi karena **ketiadaan perlindungan**.
+  
 ---
 # 📖 LIST of Zionist Military AI Systems
 
